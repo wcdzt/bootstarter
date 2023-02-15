@@ -1,0 +1,2 @@
+#?????Starter??????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.male.starter.UserAutoConfiguration
